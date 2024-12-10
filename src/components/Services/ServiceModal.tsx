@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+// import { services2 } from "../../../image/B/IMG-20241209-WA0065.jpg";
 
 interface ServiceModalProps {
   service: {
