@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+// import { motion2 } from "../../photo-1519167758481-83f550bb49b3.jpg";
 
 export const Hero = () => {
   return (
@@ -10,8 +11,7 @@ export const Hero = () => {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage:
-            'url("https://images.unsplash.com/photo-1519167758481-83f550bb49b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")',
+          backgroundImage: "url(../../photo-1519167758481-83f550bb49b3.jpg)",
         }}
       >
         <div className="absolute inset-0 bg-black/60" />
