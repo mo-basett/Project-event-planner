@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Service } from "./types";
+// import { Servic2 } from "../../../image";
 
 interface ServiceCardProps {
   service: Service;

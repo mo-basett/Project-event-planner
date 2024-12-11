@@ -16,7 +16,7 @@ export const ServiceModal: React.FC<ServiceModalProps> = ({
   service,
   onClose,
 }) => {
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [currentImageIndex, setCurrentImageIndex] = useState(1);
 
   const nextImage = () => {
     setCurrentImageIndex((prev) =>
