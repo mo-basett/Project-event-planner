@@ -3,8 +3,8 @@ export const services: Service[] = [
     title: "طاولات استقبال",
     description: "",
     images: [
-      "/Public/image/D/IMG-20241209-WA0119.jpg",
-      "/Public/image/D/IMG-20241209-WA0120.jpg",
+      "https://i.imgur.com/gQE9W3S.jpeg",
+      "https://i.imgur.com/SKYb4x8.jpeg",
       "/Public/image/D/IMG-20241209-WA0122.jpg",
       "/Public/image/D/IMG-20241209-WA0123.jpg",
       "/Public/image/D/IMG-20241209-WA0125.jpg",
