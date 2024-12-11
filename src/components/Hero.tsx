@@ -52,7 +52,7 @@ export const Hero = () => {
             href="https://wa.me/966543205594"
             className="inline-block bg-white text-black px-8 py-3 rounded-lg text-lg font-semibold hover:bg-black hover:text-white transition-colors"
           >
-            اتصل بنا الآن
+            تواصل معانا
           </motion.a>
         </div>
       </div>

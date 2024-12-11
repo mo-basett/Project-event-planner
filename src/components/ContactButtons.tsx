@@ -21,19 +21,19 @@ export const ContactButtons = () => {
         <MessageCircle size={28} />
       </a>
       <a
-        href="https://www.instagram.com/lhyllshsht?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+        href="https://www.instagram.com/lhyllshsht?igsh=MW8wMXpkcmJ4ZmRsYg=="
         className="bg-black text-white p-3 rounded-full hover:bg-gray-800 transition-colors"
         title="Instagram"
       >
         <Instagram size={28} />
       </a>
-      <a
+      {/* <a
         href="mailto:info@asriah.com"
         className="bg-black text-white p-3 rounded-full hover:bg-gray-800 transition-colors"
         title="راسلنا"
       >
         <Mail size={28} />
-      </a>
+      </a> */}
     </div>
   );
 };
