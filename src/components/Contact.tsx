@@ -40,7 +40,7 @@ export const Contact = () => {
           <div className="text-center">
             <MapPin className="w-12 h-12 mx-auto mb-4" />
             <h3 className="text-xl font-semibold mb-2">موقعنا</h3>
-            <p>المملكة العربية السعودية</p>
+            <p>الرياض</p>
           </div>
         </div>
       </div>
