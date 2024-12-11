@@ -1,23 +1,13 @@
-import image1 from "../../../dist/Public/image/D/IMG-20241209-WA0119.jpg";
-import image2 from "../../../dist/Public/image/D/IMG-20241209-WA0119.jpg";
-import image3 from "../../../dist/Public/image/D/IMG-20241209-WA0119.jpg";
-import image4 from "../../../dist/Public/image/D/IMG-20241209-WA0119.jpg";
-import image5 from "../../../dist/Public/image/D/IMG-20241209-WA0119.jpg";
-
 export const services: Service[] = [
   {
     title: "طاولات استقبال",
     description: "",
     images: [
-      image1,
-      image2,
-      image3,
-      image4,
-      image5,
-      // "/Public/image/D/IMG-20241209-WA0120.jpg",
-      // "/Public/image/D/IMG-20241209-WA0122.jpg",
-      // "/Public/image/D/IMG-20241209-WA0123.jpg",
-      // "/Public/image/D/IMG-20241209-WA0125.jpg",
+      "/Public/image/D/IMG-20241209-WA0119.jpg",
+      "/Public/image/D/IMG-20241209-WA0120.jpg",
+      "/Public/image/D/IMG-20241209-WA0122.jpg",
+      "/Public/image/D/IMG-20241209-WA0123.jpg",
+      "/Public/image/D/IMG-20241209-WA0125.jpg",
     ],
   },
   {
